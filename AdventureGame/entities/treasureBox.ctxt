@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=treasureBox
+comment1.params=level
+comment1.target=treasureBox(Level.Level)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=screen
+comment3.target=void\ render(graphics.Screen)
+numComments=4

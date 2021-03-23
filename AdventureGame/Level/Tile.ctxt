@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=id\ isSolid\ isTresure\ levelColor
+comment1.target=Tile(int,\ boolean,\ boolean,\ int)
+comment2.params=
+comment2.target=byte\ getId()
+comment3.params=
+comment3.target=boolean\ isSolid()
+comment4.params=
+comment4.target=boolean\ isTresure()
+comment5.params=
+comment5.target=int\ getLevelColor()
+comment6.params=screen\ level\ x\ y
+comment6.target=void\ render(graphics.Screen,\ Level,\ int,\ int)
+comment7.params=
+comment7.target=void\ tick()
+numComments=8

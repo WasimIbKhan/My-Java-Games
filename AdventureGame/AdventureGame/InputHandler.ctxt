@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InputHandler
+comment0.text=\r\n\ every\ time\ a\ key\ is\ pressed\r\n\ This\ class\ is\ called\r\n
+comment1.params=game
+comment1.target=InputHandler(Game)
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.params=e
+comment4.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment5.params=keyCode\ isPressed
+comment5.target=void\ toggleKey(int,\ boolean)
+numComments=6

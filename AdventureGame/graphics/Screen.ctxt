@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Screen
+comment1.params=width\ height\ sheet
+comment1.target=Screen(int,\ int,\ SpriteSheet)
+comment2.params=xOffset\ yOffset
+comment2.target=void\ setOffset(int,\ int)
+comment3.params=xPos\ yPos\ tile\ color
+comment3.target=void\ render(int,\ int,\ int,\ int)
+comment4.params=xPos\ yPos\ tile\ color\ mirrorDir\ scale
+comment4.target=void\ render(int,\ int,\ int,\ int,\ int,\ int)
+numComments=5

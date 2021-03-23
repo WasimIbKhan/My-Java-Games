@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BasicSolidTile
+comment0.text=\r\n\ This\ method\ is\ created\ to\ prevent\ the\ user\ from\ moving\ past\ some\ boxes\r\n\ It\ states\ that\ it\ is\ solid\r\n
+comment1.params=id\ x\ y\ tileColor\ levelColor
+comment1.target=BasicSolidTile(int,\ int,\ int,\ int,\ int)
+numComments=2

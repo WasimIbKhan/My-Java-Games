@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AnimatedTile
+comment1.params=id\ animationCoordination\ tileColor\ levelColor\ animationSwitchDelay
+comment1.target=AnimatedTile(int,\ int[][],\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ tick()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Colors
+comment1.params=color1\ color2\ color3\ color4
+comment1.target=int\ get(int,\ int,\ int,\ int)
+comment2.params=color
+comment2.target=int\ get(int)
+numComments=3

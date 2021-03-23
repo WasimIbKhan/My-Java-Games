@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mob
+comment1.params=level\ name\ x\ y\ speed
+comment1.target=Mob(Level.Level,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=xa\ ya
+comment2.target=void\ move(int,\ int)
+comment3.params=xa\ ya
+comment3.target=boolean\ hasCollided(int,\ int)
+comment4.params=xa\ ya\ x\ y
+comment4.target=boolean\ isSolidTile(int,\ int,\ int,\ int)
+comment5.params=xa\ ya\ x\ y
+comment5.target=boolean\ isTresureTile(int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+numComments=7

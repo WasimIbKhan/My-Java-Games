@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=collideTile
+comment1.params=id\ x\ y\ tileColor\ levelColor
+comment1.target=collideTile(int,\ int,\ int,\ int,\ int)
+comment2.params=screen\ level\ x\ y
+comment2.target=void\ render(graphics.Screen,\ Level,\ int,\ int)
+numComments=3

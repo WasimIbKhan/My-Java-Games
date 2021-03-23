@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=level\ x\ y\ input\ username\ play
+comment1.target=Player(Level.Level,\ int,\ int,\ AdventureGame.InputHandler,\ java.lang.String,\ playerStats)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=screen
+comment3.target=void\ render(graphics.Screen)
+comment4.params=xa\ ya
+comment4.target=boolean\ hasCollided(int,\ int)
+numComments=5
